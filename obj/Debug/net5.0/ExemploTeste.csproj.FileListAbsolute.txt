@@ -1,0 +1,16 @@
+C:\Ide teste\ExemploTeste\bin\Debug\net5.0\ExemploTeste.exe
+C:\Ide teste\ExemploTeste\bin\Debug\net5.0\ExemploTeste.deps.json
+C:\Ide teste\ExemploTeste\bin\Debug\net5.0\ExemploTeste.runtimeconfig.json
+C:\Ide teste\ExemploTeste\bin\Debug\net5.0\ExemploTeste.runtimeconfig.dev.json
+C:\Ide teste\ExemploTeste\bin\Debug\net5.0\ExemploTeste.dll
+C:\Ide teste\ExemploTeste\bin\Debug\net5.0\ref\ExemploTeste.dll
+C:\Ide teste\ExemploTeste\bin\Debug\net5.0\ExemploTeste.pdb
+C:\Ide teste\ExemploTeste\obj\Debug\net5.0\ExemploTeste.csproj.AssemblyReference.cache
+C:\Ide teste\ExemploTeste\obj\Debug\net5.0\ExemploTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ide teste\ExemploTeste\obj\Debug\net5.0\ExemploTeste.AssemblyInfoInputs.cache
+C:\Ide teste\ExemploTeste\obj\Debug\net5.0\ExemploTeste.AssemblyInfo.cs
+C:\Ide teste\ExemploTeste\obj\Debug\net5.0\ExemploTeste.csproj.CoreCompileInputs.cache
+C:\Ide teste\ExemploTeste\obj\Debug\net5.0\ExemploTeste.dll
+C:\Ide teste\ExemploTeste\obj\Debug\net5.0\ref\ExemploTeste.dll
+C:\Ide teste\ExemploTeste\obj\Debug\net5.0\ExemploTeste.pdb
+C:\Ide teste\ExemploTeste\obj\Debug\net5.0\ExemploTeste.genruntimeconfig.cache
